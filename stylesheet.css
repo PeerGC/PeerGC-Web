@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca');
+
+@font-face{font-family: 'Lexend Deca', sans-serif;}
+
+* {
+ font-family: Lexend Deca;
+}
