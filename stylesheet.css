@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Lexend+Deca');
-
-@font-face{font-family: 'Lexend Deca', sans-serif;}
+@font-face {    
+font-family: 'Lexend Deca';       
+src: url('https://static1.squarespace.com/static/5e38f6b168dbb6079651e808/t/5f5684129a612620ec07b01b/1599505426228/LexendDeca-Regular.ttf');  }
 
 * {
  font-family: Lexend Deca;
